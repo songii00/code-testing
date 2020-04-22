@@ -3,6 +3,9 @@ package com.example.codetesting.programmers;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * 프로그래머스 level 2 프린터
+ */
 public class Printer {
     class Priority {
         int number;

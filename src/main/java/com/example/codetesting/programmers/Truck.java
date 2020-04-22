@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * 프로그래머스 level 2 다리를 지나는 트럭
+ */
 public class Truck {
 
     public static int solution(int bridge_length, int weight, int[] truck_weights) {

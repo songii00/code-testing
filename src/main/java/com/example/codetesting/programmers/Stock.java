@@ -1,5 +1,8 @@
 package com.example.codetesting.programmers;
 
+/**
+ * 프로그래머스 level 2 주식가격
+ */
 public class Stock {
     public static int[] solution(int[] prices) {
         int[] answer = new int[prices.length];

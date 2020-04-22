@@ -1,5 +1,8 @@
 package com.example.codetesting.programmers;
 
+/**
+ * 프로그래머스 level 1 [1차] 다트 게임
+ */
 public class Dart {
     public static int solution(String dartResult) {
         double result[] = new double[3];
