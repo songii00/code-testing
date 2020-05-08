@@ -4,7 +4,7 @@ import com.example.codetesting.ProgrammersApplication;
 
 /**
  * 리트코드 add-two-numbers
- * https://leetcode.com/problems/add-two-numbers/submissions/
+ * https://leetcode.com/problems/add-two-numbers/
  */
 public class AddTwoNumbers {
 
